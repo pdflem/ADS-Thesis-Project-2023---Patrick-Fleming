@@ -1,0 +1,26 @@
+# Project Title: Unveiling Test Response Patterns: Cluster Analysis of University Students' Career Aptitude Assessments for AI-Enabled Coaching
+by Patrick Fleming
+
+Applied Data Science Masters thesis for the University of Utrecht 2023
+
+This project is a cluster analysis of Utrecht University students'answers to career apititude tests in an effort to develop generalized profiles that can be used to assist in the optimization of an AI career coach. The AI coach can use the generalized profiles to better provide recommendations to students. For example, if a particular cluster is found to have a strong inclination towards STEM fields, the AI coach can suggest STEM-related career paths to users who exhibit similar interests or characteristics. 
+
+
+The code in this repository act as the preprocessing, methods, and results steps in the project.
+
+
+
+## Acknowledgements
+
+I want to thank Sollicity B.V. for providing us with the necessary data to complete this analysis.
+
+I want to also thank my project supervisor Bilgecag Aydogdu.
+
+
+## References
+@article{morin2023stepmix,
+  title={StepMix: A Python Package for Pseudo-Likelihood Estimation of Generalized Mixture Models with External Variables},
+  author={Morin, Sacha and Legault, Robin and Bakk, Zsuzsa and Gigu{\`e}re, Charles-{\'E}douard and de la Sablonni{\`e}re, Roxane and Lacourse, {\'E}ric},
+  journal={arXiv preprint arXiv:2304.03853},
+  year={2023}
+}
